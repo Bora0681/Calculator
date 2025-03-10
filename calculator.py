@@ -28,5 +28,6 @@ while True:
     else:
         result = "Invalid operation!"
     print("Result:", result)
+    print("sa")
 
 
